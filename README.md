@@ -6,3 +6,5 @@ This is first edit to the readme.
 Second edit to readme in main.
 
 Third edit to readme in main.
+
+This is from feature2.
